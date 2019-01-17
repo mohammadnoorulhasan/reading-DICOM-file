@@ -1,0 +1,118 @@
+Tag information for TTFM.dcm file
+Tag 		| Value Representation 	| Tag Name
+(0008, 0050)	|	SH		|Accession Number
+(0028, 0100)	|	US		|Bits Allocated
+(0028, 0101)	|	US		|Bits Stored
+(0018, 0040)	|	IS		|Cine Rate
+(0028, 0011)	|	US		|Columns
+(0008, 0023)	|	DA		|Content Date
+(0008, 0033)	|	TM		|Content Time
+(0018, 1000)	|	LO		|Device Serial Number
+(0018, 0072)	|	DS		|Effective Duration
+(0028, 0009)	|	AT		|Frame Increment Pointer
+(0018, 1063)	|	DS		|Frame Time
+(0028, 0102)	|	US		|High Bit
+(0020, 4000)	|	LT		|Image Comments
+(0008, 0008)	|	CS		|Image Type
+(0020, 0013)	|	IS		|Instance Number
+(0008, 0081)	|	ST		|Institution Address
+(0008, 0080)	|	LO		|Institution Name
+(0020, 0060)	|	CS		|Laterality
+(0028, 2110)	|	CS		|Lossy Image Compression
+(0008, 0070)	|	LO		|Manufacturer
+(0008, 1090)	|	LO		|Manufacturer's Model Name
+(0008, 0060)	|	CS		|Modality
+(0028, 0008)	|	IS		|Number of Frames
+(0010, 0030)	|	DA		|Patient's Birth Date
+(0010, 4000)	|	LT		|Patient Comments
+(0010, 0020)	|	LO		|Patient ID
+(0010, 0010)	|	PN		|Patient's Name
+(0020, 0020)	|	CS		|Patient Orientation
+(0010, 0040)	|	CS		|Patient's Sex
+(0010, 1020)	|	DS		|Patient's Size
+(0010, 1030)	|	DS		|Patient's Weight
+(0008, 1050)	|	PN		|Performing Physician's Name
+(0028, 0004)	|	CS		|Photometric Interpretation
+(7fe0, 0010)	|	OW		|Pixel Data
+(0028, 0103)	|	US		|Pixel Representation
+(0028, 0006)	|	US		|Planar Configuration
+(0018, 1244)	|	US		|Preferred Playback Sequencing
+(0008, 2144)	|	IS		|Recommended Display Frame Rate
+(0008, 0090)	|	PN		|Referring Physician's Name
+(0028, 0010)	|	US		|Rows
+(0008, 0016)	|	UI		|SOP Class UID
+(0008, 0018)	|	UI		|SOP Instance UID
+(0028, 0002)	|	US		|Samples per Pixel
+(0018, 6011)	|	SQ		|Sequence of Ultrasound Regions
+(0008, 0021)	|	DA		|Series Date
+(0020, 000e)	|	UI		|Series Instance UID
+(0020, 0011)	|	IS		|Series Number
+(0008, 0031)	|	TM		|Series Time
+(0018, 1020)	|	LO		|Software Version(s)
+(0008, 0005)	|	CS		|Specific Character Set
+(0008, 1010)	|	SH		|Station Name
+(0008, 0020)	|	DA		|Study Date
+(0008, 1030)	|	LO		|Study Description
+(0020, 0010)	|	SH		|Study ID
+(0020, 000d)	|	UI		|Study Instance UID
+(0008, 0030)	|	TM		|Study Time
+------------------------------------------------------------------------------
+Tag information for BMode.dcm file
+Tag 		| Value Representation 	| Tag Name
+(0008, 0050)	|	SH		|Accession Number
+(0028, 0100)	|	US		|Bits Allocated
+(0028, 0101)	|	US		|Bits Stored
+(0018, 0040)	|	IS		|Cine Rate
+(0028, 0011)	|	US		|Columns
+(0008, 0023)	|	DA		|Content Date
+(0008, 0033)	|	TM		|Content Time
+(0018, 1000)	|	LO		|Device Serial Number
+(0018, 0072)	|	DS		|Effective Duration
+(0028, 0009)	|	AT		|Frame Increment Pointer
+(0018, 1063)	|	DS		|Frame Time
+(0028, 0102)	|	US		|High Bit
+(0020, 4000)	|	LT		|Image Comments
+(0008, 0008)	|	CS		|Image Type
+(0020, 0013)	|	IS		|Instance Number
+(0008, 0081)	|	ST		|Institution Address
+(0008, 0080)	|	LO		|Institution Name
+(0020, 0060)	|	CS		|Laterality
+(0028, 2110)	|	CS		|Lossy Image Compression
+(0008, 0070)	|	LO		|Manufacturer
+(0008, 1090)	|	LO		|Manufacturer's Model Name
+(0008, 0060)	|	CS		|Modality
+(0028, 0008)	|	IS		|Number of Frames
+(0010, 0030)	|	DA		|Patient's Birth Date
+(0010, 4000)	|	LT		|Patient Comments
+(0010, 0020)	|	LO		|Patient ID
+(0010, 0010)	|	PN		|Patient's Name
+(0020, 0020)	|	CS		|Patient Orientation
+(0010, 0040)	|	CS		|Patient's Sex
+(0010, 1020)	|	DS		|Patient's Size
+(0010, 1030)	|	DS		|Patient's Weight
+(0008, 1050)	|	PN		|Performing Physician's Name
+(0028, 0004)	|	CS		|Photometric Interpretation
+(7fe0, 0010)	|	OW		|Pixel Data
+(0028, 0103)	|	US		|Pixel Representation
+(0028, 0006)	|	US		|Planar Configuration
+(0018, 1244)	|	US		|Preferred Playback Sequencing
+(0008, 2144)	|	IS		|Recommended Display Frame Rate
+(0008, 0090)	|	PN		|Referring Physician's Name
+(0028, 0010)	|	US		|Rows
+(0008, 0016)	|	UI		|SOP Class UID
+(0008, 0018)	|	UI		|SOP Instance UID
+(0028, 0002)	|	US		|Samples per Pixel
+(0018, 6011)	|	SQ		|Sequence of Ultrasound Regions
+(0008, 0021)	|	DA		|Series Date
+(0020, 000e)	|	UI		|Series Instance UID
+(0020, 0011)	|	IS		|Series Number
+(0008, 0031)	|	TM		|Series Time
+(0018, 1020)	|	LO		|Software Version(s)
+(0008, 0005)	|	CS		|Specific Character Set
+(0008, 1010)	|	SH		|Station Name
+(0008, 0020)	|	DA		|Study Date
+(0008, 1030)	|	LO		|Study Description
+(0020, 0010)	|	SH		|Study ID
+(0020, 000d)	|	UI		|Study Instance UID
+(0008, 0030)	|	TM		|Study Time
+------------------------------------------------------------------------------
